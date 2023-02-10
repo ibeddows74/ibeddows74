@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T09:26:19.544Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="tDlr1NSnzxQKH-Az-OVn" version="20.8.19" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-10T09:29:05.577Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="f5MvXYsAbwm1u_P1xlZG" version="20.8.19" type="github">
   <diagram name="Page-1" id="Gv0vePrAmulzo7Zv8kSd">
     <mxGraphModel dx="1075" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="Zd36vS220eJclgIYD8o4-7" value="Storage Account" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" vertex="1" parent="Zd36vS220eJclgIYD8o4-8">
           <mxGeometry x="441" y="620" width="65" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Zd36vS220eJclgIYD8o4-9" value="JupyterHub on &lt;br&gt;Azure Kubernetes Services - HLD" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="364" y="20" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
